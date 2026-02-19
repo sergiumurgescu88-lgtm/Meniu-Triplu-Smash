@@ -1,0 +1,9 @@
+{
+  "name": "AI Automation Hub",
+  "description": "A professional AI automation platform for businesses integrating 50+ APIs into cohesive automation ecosystems for sectors like retail, healthcare, and hospitality.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
